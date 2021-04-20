@@ -13,5 +13,5 @@
 * git remote add origin Your **Repo Name**
 * git branch -M main
 * git push -u origin main
-
-Always -> git push
+To ignore any of folder -> create .gitignore file and put file/folder name in it
+### Always -> git push
